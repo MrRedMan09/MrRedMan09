@@ -1,4 +1,4 @@
-- 👋 Hola, yo soy @MrRedMan09
+Soy un naco y estupo que usa Git Gub en 2021
 
 <!---
 MrRedMan09/MrRedMan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
